@@ -20,7 +20,8 @@
     </style>
     <link href="<?php echo base_url(); ?>assets/admin/css/bootstrap-responsive.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>assets/admin/css/bootstrap-wysihtml5.css" rel="stylesheet">
-	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/admin/css/table-fixed-header.css">
+	  <link rel="stylesheet" href="<?php echo base_url(); ?>assets/admin/css/table-fixed-header.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/admin/css/styles.css">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
